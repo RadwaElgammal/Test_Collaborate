@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Hello nonoadd
+=======
+Hello nono
+lalalalala
+lolololo
+>>>>>>> 7bf818c600e2b108312b4758ab8f72122da8fc75
 lalalal test
 test conflict
+changes
